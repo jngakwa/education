@@ -30,7 +30,7 @@ Provide a short and concise overview of the project. Mention the problem it solv
 ## Data
 
 - **Source:** https://nces.ed.gov/ccd/elsi/tablegenerator.aspx, https://nces.ed.gov/
-- **Description:** The cleaned dataset (saved as education_clean) contains information from 7,986 school-level observations with a total of 14 variables that describe both academic performance and socioeconomic characteristics of schools. Key numerical columns include socioeconomic indicators such as unemployment rate, percentage of adults with college degrees, percentage of married-couple families, median household income, and percentage of students receiving free or reduced lunch. The main performance metric is average ACT score, while teachers represents the number of teachers available at each school. Additional categorical variables such as state, zip code, school type, school level, charter status, and year provide contextual information about each observation.
+- **Description:** This dataset contains information from 7,986 school-level observations with a total of 14 variables that describe both academic performance and socioeconomic characteristics of schools. Key numerical columns include socioeconomic indicators such as unemployment rate, percentage of adults with college degrees, percentage of married-couple families, median household income, and percentage of students receiving free or reduced lunch. The main performance metric is average ACT score, while teachers represents the number of teachers available at each school. Additional categorical variables such as state, zip code, school type, school level, charter status, and year provide contextual information about each observation.
 - **License:** (if applicable)
 
 ---
